@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://vuepress-theme-hope-docs-demo.netlify.app/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>Docs Demo</title>
+    <title>Web Full Stack Encyclopedia-Java</title>
     <link>https://vuepress-theme-hope-docs-demo.netlify.app/</link>
-    <description>A docs demo for vuepress-theme-hope</description>
+    <description>Web Full Stack Encyclopedia-Java</description>
     <language>en-US</language>
-    <pubDate>Thu, 12 Dec 2024 06:58:16 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2024 06:58:16 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 07:11:20 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 07:11:20 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -122,10 +122,6 @@
 <li><a href="https://theme-hope.vuejs.press/guide/markdown/content/include.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>
 <h4>TeX</h4>
-<p>$$<br>
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)<br>
-= \left(\frac {y^{\omega}} {\omega}\right) \left{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right}<br>
-$$</p>
 <ul>
 <li><a href="https://theme-hope.vuejs.press/guide/markdown/grammar/math.html" target="_blank" rel="noopener noreferrer">View Detail</a></li>
 </ul>

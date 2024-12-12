@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <atom:link href="https://vuepress-theme-hope-docs-demo.netlify.app/zh/rss.xml" rel="self" type="application/rss+xml"/>
-    <title>文档演示</title>
+    <title>Web全栈百科-Java</title>
     <link>https://vuepress-theme-hope-docs-demo.netlify.app/zh/</link>
-    <description>vuepress-theme-hope 的文档演示</description>
+    <description>Web全栈百科-Java</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Dec 2024 06:58:16 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2024 06:58:16 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 07:11:20 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 07:11:20 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
@@ -118,10 +118,6 @@
 <li><a href="https://theme-hope.vuejs.press/zh/guide/markdown/content/include.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
 </ul>
 <h4>TeX 语法</h4>
-<p>$$<br>
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)<br>
-= \left(\frac {y^{\omega}} {\omega}\right) \left{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right}<br>
-$$</p>
 <ul>
 <li><a href="https://theme-hope.vuejs.press/zh/guide/markdown/grammar/math.html" target="_blank" rel="noopener noreferrer">查看详情</a></li>
 </ul>
