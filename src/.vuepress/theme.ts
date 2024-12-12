@@ -77,6 +77,8 @@ export default hopeTheme({
     imgSize: true,
     include: true,
     mark: true,
+    math: true,//数学公式支持
+    
     plantuml: true,
     spoiler: true,
     stylize: [
@@ -98,6 +100,7 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
     highlighter: "prismjs"
+    
 
     // uncomment these if you need TeX support
     // math: {
@@ -189,14 +192,21 @@ export default hopeTheme({
       categoryId: "DIC_kwDOG_Pt2M4COD69",
     },
 
+    //配置markdown内部可用的组件
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "VPCard", "VPBanner", "PDF", "BiliBili"],
     },
 
     //重定向配置
     // redirect: {
       
     // },
+
+    //自动生成目录
+    catalog: {
+      level: 3,
+      index: true,
+    },
 
     // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
     pwa: {
