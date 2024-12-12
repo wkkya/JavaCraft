@@ -7,15 +7,20 @@ export default defineUserConfig({
 
   locales: {
     "/": {
-      lang: "en-US",
-      title: "Web Full Stack Encyclopedia-Java",
-      description: "Web Full Stack Encyclopedia-Java",
-    },
-    "/zh/": {
       lang: "zh-CN",
-      title: "Web全栈百科-Java",
-      description: "Web全栈百科-Java",
+      title: "JavaEncyc",
+      description: "JavaEncyc",
     },
+    // "/": {
+    //   lang: "en-US",
+    //   title: "JavaEncyc",
+    //   description: "JavaEncyc",
+    // },
+    // "/zh/": {
+    //   lang: "zh-CN",
+    //   title: "JavaEncyc",
+    //   description: "JavaEncyc",
+    // },
   },
 
   theme,

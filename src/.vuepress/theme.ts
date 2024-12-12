@@ -4,11 +4,11 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://java.wkkya.top",
 
   author: {
     name: "Wkkya",
-    url: "https://mister-hope.com",
+    url: "https://java.wkkya.top",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -17,7 +17,9 @@ export default hopeTheme({
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
+
   docsDir: "src",
+
 
   locales: {
     "/": {
@@ -265,4 +267,9 @@ export default hopeTheme({
       },
     },
   },
+},
+
+{
+  check:true,
+  
 });
