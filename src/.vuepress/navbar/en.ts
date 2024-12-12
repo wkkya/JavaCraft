@@ -24,7 +24,7 @@ export const enNavbar = navbar([
     ],
   },
   {
-    text: "V2 Docs",
+    text: "Docs",
     icon: "book",
     link: "https://theme-hope.vuejs.press/",
   },

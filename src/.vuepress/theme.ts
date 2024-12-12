@@ -165,10 +165,10 @@ export default hopeTheme({
     //   },
     // },
     //水印插件
-    watermark: {
-      enabled: true,
-      delay: 500,
-    },
+    // watermark: {
+    //   enabled: true,
+    //   delay: 500,
+    // },
     //复制内容时追加版权信息
     copyright: {
       global: true,
