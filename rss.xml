@@ -6,17 +6,17 @@
     <link>https://java.wkkya.top/</link>
     <description>JavaCraft</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 12 Dec 2024 08:58:40 GMT</pubDate>
-    <lastBuildDate>Thu, 12 Dec 2024 08:58:40 GMT</lastBuildDate>
+    <pubDate>Thu, 12 Dec 2024 10:38:56 GMT</pubDate>
+    <lastBuildDate>Thu, 12 Dec 2024 10:38:56 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
     <category>指南</category>
     <item>
-      <title>主要功能与配置演示</title>
+      <title>主要功能</title>
       <link>https://java.wkkya.top/demo/</link>
       <guid>https://java.wkkya.top/demo/</guid>
-      <source url="https://java.wkkya.top/rss.xml">主要功能与配置演示</source>
+      <source url="https://java.wkkya.top/rss.xml">主要功能</source>
       <category>使用指南</category>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
     </item>
@@ -179,32 +179,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Bar 功能</title>
-      <link>https://java.wkkya.top/guide/bar/</link>
-      <guid>https://java.wkkya.top/guide/bar/</guid>
-      <source url="https://java.wkkya.top/rss.xml">Bar 功能</source>
-      <description>介绍 我们支持 bar 功能，... 详情 ...</description>
-      <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>介绍</h2>
-<p>我们支持 bar 功能，...</p>
-<h2>详情</h2>
-<ul>
-<li><a href="/guide/bar/baz.html" target="_blank">baz</a></li>
-<li>...</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Baz</title>
-      <link>https://java.wkkya.top/guide/bar/baz.html</link>
-      <guid>https://java.wkkya.top/guide/bar/baz.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">Baz</source>
-      <description>功能详情...</description>
-      <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
-      <content:encoded><![CDATA[<p>功能详情...</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Foo 功能</title>
       <link>https://java.wkkya.top/guide/foo/</link>
       <guid>https://java.wkkya.top/guide/foo/</guid>
@@ -225,6 +199,32 @@
       <link>https://java.wkkya.top/guide/foo/ray.html</link>
       <guid>https://java.wkkya.top/guide/foo/ray.html</guid>
       <source url="https://java.wkkya.top/rss.xml">Ray</source>
+      <description>功能详情...</description>
+      <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
+      <content:encoded><![CDATA[<p>功能详情...</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Bar 功能</title>
+      <link>https://java.wkkya.top/guide/bar/</link>
+      <guid>https://java.wkkya.top/guide/bar/</guid>
+      <source url="https://java.wkkya.top/rss.xml">Bar 功能</source>
+      <description>介绍 我们支持 bar 功能，... 详情 ...</description>
+      <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>介绍</h2>
+<p>我们支持 bar 功能，...</p>
+<h2>详情</h2>
+<ul>
+<li><a href="/guide/bar/baz.html" target="_blank">baz</a></li>
+<li>...</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Baz</title>
+      <link>https://java.wkkya.top/guide/bar/baz.html</link>
+      <guid>https://java.wkkya.top/guide/bar/baz.html</guid>
+      <source url="https://java.wkkya.top/rss.xml">Baz</source>
       <description>功能详情...</description>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>功能详情...</p>
