@@ -7,7 +7,7 @@ export default hopeTheme({
   hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
 
   author: {
-    name: "Mr.Hope",
+    name: "Wkkya",
     url: "https://mister-hope.com",
   },
 
@@ -31,9 +31,9 @@ export default hopeTheme({
 
       displayFooter: true,
 
-      metaLocales: {
-        editLink: "Edit this page on GitHub",
-      },
+      // metaLocales: {
+      //   editLink: "Edit this page on GitHub",
+      // },
     },
 
     /**
@@ -51,9 +51,9 @@ export default hopeTheme({
       displayFooter: true,
 
       // page meta
-      metaLocales: {
-        editLink: "在 GitHub 上编辑此页",
-      },
+      // metaLocales: {
+      //   editLink: "在 GitHub 上编辑此页",
+      // },
     },
   },
 
