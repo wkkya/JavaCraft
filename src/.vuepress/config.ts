@@ -8,18 +8,18 @@ export default defineUserConfig({
   locales: {
     "/": {
       lang: "zh-CN",
-      title: "JavaEncyc",
-      description: "JavaEncyc",
+      title: "JavaCraft",
+      description: "JavaCraft",
     },
     // "/": {
     //   lang: "en-US",
-    //   title: "JavaEncyc",
-    //   description: "JavaEncyc",
+    //   title: "JavaCraft",
+    //   description: "JavaCraft",
     // },
     // "/zh/": {
     //   lang: "zh-CN",
-    //   title: "JavaEncyc",
-    //   description: "JavaEncyc",
+    //   title: "JavaCraft",
+    //   description: "JavaCraft",
     // },
   },
 

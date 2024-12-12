@@ -3,14 +3,14 @@ home: true
 icon: home
 title: 主页
 shortTitle: 主页
-description: JavaEncy
+description: JavaCraft
 heroImage: https://theme-hope-assets.vuejs.press/logo.svg
 bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: JavaEncy
-tagline: "JavaEncy: The Ultimate Java Encyclopedia"
+heroText: JavaCraft
+tagline: "JavaCraft: 以“工匠精神”为理念，深入探讨 Java 技术，精雕细琢代码艺术"
 actions:
   - text: 使用指南
     icon: lightbulb
