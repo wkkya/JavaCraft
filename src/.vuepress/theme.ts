@@ -97,6 +97,7 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     vPre: true,
+    highlighter: "prismjs"
 
     // uncomment these if you need TeX support
     // math: {
@@ -135,6 +136,49 @@ export default hopeTheme({
   },
 
   plugins: {
+    //搜索插件
+    slimsearch: true,
+    // search: true,
+    // docsearch: {
+    //   locales: {
+    //     "/": {
+    //       placeholder: "Search Documentation",
+    //       translations: {
+    //         button: {
+    //           buttonText: 'Search Documentation',
+    //         },
+    //       },
+    //     },
+    //     "/zh/": {
+    //       placeholder: "搜索文档",
+    //       translations: {
+    //         button: {
+    //           buttonText: '搜索文档',
+    //         },
+    //       },
+    //     },
+    //   },
+    // },
+    //水印插件
+    watermark: {
+      enabled: true,
+      delay: 500,
+    },
+    //复制内容时追加版权信息
+    copyright: {
+      global: true,
+      author:"wkkya",
+      triggerLength: 200,//触发附加版权的最小内容长度
+      maxLength:0, //允许复制的最大内容长度 0-无限制
+      license: "Copyright © 2022-present wkkya",
+    },
+    //Feed支持
+    feed: {
+      rss: true,
+    },
+    //代码高亮插件
+    
+
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
     comment: {
@@ -149,61 +193,66 @@ export default hopeTheme({
       components: ["Badge", "VPCard"],
     },
 
-    // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
-    // pwa: {
-    //   favicon: "/favicon.ico",
-    //   cacheHTML: true,
-    //   cacheImage: true,
-    //   appendBase: true,
-    //   apple: {
-    //     icon: "/assets/icon/apple-icon-152.png",
-    //     statusBarColor: "black",
-    //   },
-    //   msTile: {
-    //     image: "/assets/icon/ms-icon-144.png",
-    //     color: "#ffffff",
-    //   },
-    //   manifest: {
-    //     icons: [
-    //       {
-    //         src: "/assets/icon/chrome-mask-512.png",
-    //         sizes: "512x512",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-mask-192.png",
-    //         sizes: "192x192",
-    //         purpose: "maskable",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-512.png",
-    //         sizes: "512x512",
-    //         type: "image/png",
-    //       },
-    //       {
-    //         src: "/assets/icon/chrome-192.png",
-    //         sizes: "192x192",
-    //         type: "image/png",
-    //       },
-    //     ],
-    //     shortcuts: [
-    //       {
-    //         name: "Demo",
-    //         short_name: "Demo",
-    //         url: "/demo/",
-    //         icons: [
-    //           {
-    //             src: "/assets/icon/guide-maskable.png",
-    //             sizes: "192x192",
-    //             purpose: "maskable",
-    //             type: "image/png",
-    //           },
-    //         ],
-    //       },
-    //     ],
-    //   },
+    //重定向配置
+    // redirect: {
+      
     // },
+
+    // Install @vuepress/plugin-pwa and uncomment these if you want a PWA
+    pwa: {
+      favicon: "/favicon.ico",
+      cacheHTML: true,
+      cacheImage: true,
+      appendBase: true,
+      apple: {
+        icon: "/assets/icon/apple-icon-152.png",
+        statusBarColor: "black",
+      },
+      msTile: {
+        image: "/assets/icon/ms-icon-144.png",
+        color: "#ffffff",
+      },
+      manifest: {
+        icons: [
+          {
+            src: "/assets/icon/chrome-mask-512.png",
+            sizes: "512x512",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "/assets/icon/chrome-mask-192.png",
+            sizes: "192x192",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "/assets/icon/chrome-512.png",
+            sizes: "512x512",
+            type: "image/png",
+          },
+          {
+            src: "/assets/icon/chrome-192.png",
+            sizes: "192x192",
+            type: "image/png",
+          },
+        ],
+        shortcuts: [
+          {
+            name: "Demo",
+            short_name: "Demo",
+            url: "/demo/",
+            icons: [
+              {
+                src: "/assets/icon/guide-maskable.png",
+                sizes: "192x192",
+                purpose: "maskable",
+                type: "image/png",
+              },
+            ],
+          },
+        ],
+      },
+    },
   },
 });
