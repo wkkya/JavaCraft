@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://java.wkkya.top/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://javacraft.wkkya.top/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://java.wkkya.top/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://javacraft.wkkya.top/rss.xml" rel="self" type="application/rss+xml"/>
     <title>JavaCraft</title>
-    <link>https://java.wkkya.top/</link>
+    <link>https://javacraft.wkkya.top/</link>
     <description>JavaCraft</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 16 Dec 2024 04:01:30 GMT</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2024 04:01:30 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2024 10:36:38 GMT</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2024 10:36:38 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>使用指南</category>
     <category>指南</category>
     <item>
       <title>主要功能</title>
-      <link>https://java.wkkya.top/demo/</link>
-      <guid>https://java.wkkya.top/demo/</guid>
-      <source url="https://java.wkkya.top/rss.xml">主要功能</source>
+      <link>https://javacraft.wkkya.top/demo/</link>
+      <guid>https://javacraft.wkkya.top/demo/</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">主要功能</source>
       <category>使用指南</category>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
     </item>
     <item>
       <title>布局与功能禁用</title>
-      <link>https://java.wkkya.top/demo/disable.html</link>
-      <guid>https://java.wkkya.top/demo/disable.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">布局与功能禁用</source>
+      <link>https://javacraft.wkkya.top/demo/disable.html</link>
+      <guid>https://javacraft.wkkya.top/demo/disable.html</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">布局与功能禁用</source>
       <description>你可以通过设置页面的 Frontmatter，在页面禁用功能与布局。 本页面就是一个示例，禁用了如下功能: 导航栏 侧边栏 路径导航 页面信息 贡献者 编辑此页链接 更新时间 上一篇/下一篇 链接 评论 页脚 返回顶部按钮</description>
       <category>使用指南</category>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
@@ -48,9 +48,9 @@
     </item>
     <item>
       <title>布局</title>
-      <link>https://java.wkkya.top/demo/layout.html</link>
-      <guid>https://java.wkkya.top/demo/layout.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">布局</source>
+      <link>https://javacraft.wkkya.top/demo/layout.html</link>
+      <guid>https://javacraft.wkkya.top/demo/layout.html</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">布局</source>
       <description>布局包括: 导航栏 侧边栏 页脚 同时每个页面包含: 路径导航 标题和页面信息 TOC (文章标题列表) 贡献者、更新时间等页面元信息 评论 主题也带有以下元素: 夜间模式按钮 返回顶部按钮 打印按钮 你可以在主题选项和页面的 frontmatter 中自定义它们。</description>
       <category>指南</category>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
@@ -79,9 +79,9 @@
     </item>
     <item>
       <title>Markdown 展示</title>
-      <link>https://java.wkkya.top/demo/markdown.html</link>
-      <guid>https://java.wkkya.top/demo/markdown.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">Markdown 展示</source>
+      <link>https://javacraft.wkkya.top/demo/markdown.html</link>
+      <guid>https://javacraft.wkkya.top/demo/markdown.html</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">Markdown 展示</source>
       <description>VuePress 主要从 Markdown 文件生成页面。因此，你可以使用它轻松生成文档或博客站点。 你需要创建并编写 Markdown，以便 VuePress 可以根据文件结构将它们转换为不同的页面。 Markdown 介绍 如果你是一个新手，还不会编写 Markdown，请先阅读 Markdown 介绍 和 Markdown 演示。 Markdow...</description>
       <category>使用指南</category>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
@@ -142,9 +142,9 @@
     </item>
     <item>
       <title>页面配置</title>
-      <link>https://java.wkkya.top/demo/page.html</link>
-      <guid>https://java.wkkya.top/demo/page.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">页面配置</source>
+      <link>https://javacraft.wkkya.top/demo/page.html</link>
+      <guid>https://javacraft.wkkya.top/demo/page.html</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">页面配置</source>
       <description>more 注释之前的内容被视为文章摘要。 页面标题 The first H1 title in Markdown will be regarded as page title. Markdown 中的第一个 H1 标题会被视为页面标题。 你可以在 Markdown 的 Frontmatter 中设置页面标题。 页面信息 你可以在 Markdown 的 ...</description>
       <category>使用指南</category>
       <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
@@ -156,13 +156,13 @@
 <p>你可以在 Markdown 的 Frontmatter 中设置页面标题。</p>
 <div class="language-markdown line-numbers-mode" data-highlighter="prismjs" data-ext="md" data-title="md"><pre><code><span class="line"></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"></div></div>]]></content:encoded>
-      <enclosure url="https://java.wkkya.top/assets/images/cover1.jpg" type="image/jpeg"/>
+      <enclosure url="https://javacraft.wkkya.top/assets/images/cover1.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>指南</title>
-      <link>https://java.wkkya.top/guide/</link>
-      <guid>https://java.wkkya.top/guide/</guid>
-      <source url="https://java.wkkya.top/rss.xml">指南</source>
+      <link>https://javacraft.wkkya.top/guide/</link>
+      <guid>https://javacraft.wkkya.top/guide/</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">指南</source>
       <description>功能亮点 Bar ... Foo ...</description>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
       <content:encoded><![CDATA[<h2>功能亮点</h2>
@@ -180,9 +180,9 @@
     </item>
     <item>
       <title>Foo 功能</title>
-      <link>https://java.wkkya.top/guide/foo/</link>
-      <guid>https://java.wkkya.top/guide/foo/</guid>
-      <source url="https://java.wkkya.top/rss.xml">Foo 功能</source>
+      <link>https://javacraft.wkkya.top/guide/foo/</link>
+      <guid>https://javacraft.wkkya.top/guide/foo/</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">Foo 功能</source>
       <description>介绍 我们支持 foo 功能，... 详情 ...</description>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
       <content:encoded><![CDATA[<h2>介绍</h2>
@@ -196,9 +196,9 @@
     </item>
     <item>
       <title>Ray</title>
-      <link>https://java.wkkya.top/guide/foo/ray.html</link>
-      <guid>https://java.wkkya.top/guide/foo/ray.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">Ray</source>
+      <link>https://javacraft.wkkya.top/guide/foo/ray.html</link>
+      <guid>https://javacraft.wkkya.top/guide/foo/ray.html</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">Ray</source>
       <description>功能详情...</description>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>功能详情...</p>
@@ -206,9 +206,9 @@
     </item>
     <item>
       <title>Bar 功能</title>
-      <link>https://java.wkkya.top/guide/bar/</link>
-      <guid>https://java.wkkya.top/guide/bar/</guid>
-      <source url="https://java.wkkya.top/rss.xml">Bar 功能</source>
+      <link>https://javacraft.wkkya.top/guide/bar/</link>
+      <guid>https://javacraft.wkkya.top/guide/bar/</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">Bar 功能</source>
       <description>介绍 我们支持 bar 功能，... 详情 ...</description>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
       <content:encoded><![CDATA[<h2>介绍</h2>
@@ -222,9 +222,9 @@
     </item>
     <item>
       <title>Baz</title>
-      <link>https://java.wkkya.top/guide/bar/baz.html</link>
-      <guid>https://java.wkkya.top/guide/bar/baz.html</guid>
-      <source url="https://java.wkkya.top/rss.xml">Baz</source>
+      <link>https://javacraft.wkkya.top/guide/bar/baz.html</link>
+      <guid>https://javacraft.wkkya.top/guide/bar/baz.html</guid>
+      <source url="https://javacraft.wkkya.top/rss.xml">Baz</source>
       <description>功能详情...</description>
       <pubDate>Thu, 12 Dec 2024 01:09:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>功能详情...</p>

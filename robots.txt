@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://java.wkkya.top/sitemap.xml
+Sitemap: https://javacraft.wkkya.top/sitemap.xml

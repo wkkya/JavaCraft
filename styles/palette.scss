@@ -1,5 +1,15 @@
 // you can change colors here
-$vp-c-bg: (
-  light: #fff,
-  dark: #000,
+
+// 将主题颜色设置为红色
+// 注: 为保持一致，你还应该设置其他主题颜色变量
+$vp-c-accent: red;
+
+// 将边框颜色加深
+$vp-c-border: (
+  light: #ddd,
+  dark: #444,
 );
+
+// 加大移动设备上的导航栏高度
+$navbar-mobile-height: 3.5rem;
+
