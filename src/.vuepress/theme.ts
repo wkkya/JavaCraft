@@ -4,12 +4,25 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://java.wkkya.top",
+  hostname: "https://javacraft.wkkya.top",
 
   author: {
     name: "Wkkya",
-    url: "https://java.wkkya.top",
+    url: "https://javacraft.wkkya.top",
   },
+
+  fullscreen:true,
+
+  externalLinkIcon: true,
+
+  themeColor:true,
+
+  // 纯净模式
+  // pure:true,
+
+  darkmode:"toggle",
+
+  print:true,
 
   iconAssets: "fontawesome-with-brands",
 
@@ -19,6 +32,10 @@ export default hopeTheme({
 
 
   docsDir: "src",
+
+  outlookLocales:{
+    themeColor: "red",
+  },
 
 
   locales: {
@@ -144,28 +161,23 @@ export default hopeTheme({
 
   plugins: {
     //搜索插件
-    slimsearch: true,
+    // slimsearch: true,
     // search: true,
-    // docsearch: {
-    //   locales: {
-    //     "/": {
-    //       placeholder: "Search Documentation",
-    //       translations: {
-    //         button: {
-    //           buttonText: 'Search Documentation',
-    //         },
-    //       },
-    //     },
-    //     "/zh/": {
-    //       placeholder: "搜索文档",
-    //       translations: {
-    //         button: {
-    //           buttonText: '搜索文档',
-    //         },
-    //       },
-    //     },
-    //   },
-    // },
+    docsearch: {
+      locales: {
+        "/": {
+          placeholder: "搜索文档",
+          translations: {
+            button: {
+              buttonText: '搜索文档',
+            },
+          },
+        },
+        // "/zh/": {
+          
+        // },
+      },
+    },
     //水印插件
     // watermark: {
     //   enabled: true,

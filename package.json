@@ -20,6 +20,7 @@
     "@vuepress/plugin-prismjs": "2.0.0-rc.65",
     "@vuepress/plugin-pwa": "2.0.0-rc.65",
     "@vuepress/plugin-redirect": "2.0.0-rc.65",
+    "@vuepress/plugin-revealjs": "2.0.0-rc.67",
     "@vuepress/plugin-search": "2.0.0-rc.63",
     "@vuepress/plugin-slimsearch": "2.0.0-rc.65",
     "mathjax-full": "^3.2.2",
