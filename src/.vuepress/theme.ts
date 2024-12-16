@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/static/logo/logo.png",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
@@ -25,6 +25,8 @@ export default hopeTheme({
     "/": {
       // navbar
       navbar: enNavbar,
+
+      navbarTitle: "JavaCraft",
 
       // sidebar
       sidebar: enSidebar,

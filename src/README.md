@@ -4,7 +4,9 @@ icon: home
 title: 主页
 shortTitle: 主页
 description: JavaCraft
-heroImage: https://theme-hope-assets.vuejs.press/logo.svg
+heroImage: /static/logo/logo.png
+heroText: JavaCraft
+heroImageDark: /static/logo/logo.png
 # bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 # bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 # bgImageStyle:
