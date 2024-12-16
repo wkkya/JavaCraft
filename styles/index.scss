@@ -1,0 +1,9 @@
+// place your custom styles here
+// 覆盖代码块演示标题颜色
+#app {
+    --code-c-bg: #fff;
+  
+    [data-theme="dark"] & {
+      --code-c-bg: #000;
+    }
+  }
