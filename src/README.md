@@ -32,20 +32,20 @@ highlights:
       - title: 链接检查
         icon: clipboard-check
         details: 检查 Markdown 链接
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+        # link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
       - title: 提示容器
         icon: box-archive
         details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+        # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
       - title: 提示容器
         icon: box-archive
         details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+        # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
       - title: 提示容器
         icon: box-archive
         details: 用样式装饰 Markdown 内容
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+        # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
 
 
 copyright: false

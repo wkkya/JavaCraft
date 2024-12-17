@@ -11,6 +11,8 @@ export default hopeTheme({
     url: "https://javacraft.wkkya.top",
   },
 
+  repoDisplay: true,
+
   fullscreen:true,
 
   externalLinkIcon: true,
@@ -28,7 +30,7 @@ export default hopeTheme({
 
   logo: "/static/logo/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/wkkya/javacraft",
 
 
   docsDir: "src",
