@@ -21,7 +21,7 @@ tagline: "以工匠精神探讨 Java 技术，精雕代码艺术"
 #     link: ./demo/
 #     type: primary
 
-#   - text: 文档
+#   - text: 文档  
 #     link: ./guide/
 
 highlights:

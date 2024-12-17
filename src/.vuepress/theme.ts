@@ -33,9 +33,9 @@ export default hopeTheme({
 
   docsDir: "src",
 
-  outlookLocales:{
-    themeColor: "red",
-  },
+  // outlookLocales:{
+  //   themeColor: "red",
+  // },
 
 
   locales: {

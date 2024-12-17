@@ -2,12 +2,18 @@
 
 // 将主题颜色设置为红色
 // 注: 为保持一致，你还应该设置其他主题颜色变量
-$vp-c-accent: red;
+// $vp-c-accent: red;
+// $vp-c-text: red;
 
 // 将边框颜色加深
 $vp-c-border: (
   light: #ddd,
   dark: #444,
+);
+
+$vp-c-bg:(
+  light: #fafafa,
+  dark: #222,
 );
 
 // 加大移动设备上的导航栏高度
