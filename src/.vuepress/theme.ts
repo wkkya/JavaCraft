@@ -166,6 +166,9 @@ export default hopeTheme({
     // slimsearch: true,
     // search: true,
     docsearch: {
+      appId: "GCPFOMQOG2",
+      apiKey: "d9e11f87a36d9a15d14e6a5aac4691fb",
+      indexName: "javacraft-wkkya",
       locales: {
         "/": {
           placeholder: "搜索文档",
