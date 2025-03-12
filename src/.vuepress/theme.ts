@@ -41,7 +41,7 @@ export default hopeTheme({
 
 
   locales: {
-    "/": {
+    "/en": {
       // navbar
       navbar: enNavbar,
 
@@ -50,7 +50,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "默认页脚",
 
       displayFooter: true,
 
@@ -62,7 +62,7 @@ export default hopeTheme({
     /**
      * Chinese locale config
      */
-    "/zh/": {
+    "/": {
       // navbar
       navbar: zhNavbar,
 
@@ -172,6 +172,7 @@ export default hopeTheme({
       locales: {
         "/": {
           placeholder: "搜索文档",
+          disableUserPersonalization: false,
           translations: {
             button: {
               buttonText: '搜索文档',

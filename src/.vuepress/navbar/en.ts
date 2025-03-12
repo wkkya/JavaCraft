@@ -2,7 +2,29 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  "/portfolio",
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  //--------------------------原domo项目自带的导航栏--------------------------
+  // "/portfolio",
   // "/demo/",
   // {
   //   text: "Guide",

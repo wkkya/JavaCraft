@@ -1,22 +1,22 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export const zhSidebar = sidebar({
-  "/zh/": [
+  "/": [
     "",
     "portfolio",
     {
-      text: "案例",
+      text: "面试专栏",
       icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
+      prefix: "interview/",
+      link: "interview/",
       children: "structure",
     },
-    {
-      text: "文档",
-      icon: "book",
-      prefix: "guide/",
-      children: "structure",
-    },
+    // {
+    //   text: "文档",
+    //   icon: "book",
+    //   prefix: "guide/",
+    //   children: "structure",
+    // },
     {
       text: "幻灯片",
       icon: "person-chalkboard",

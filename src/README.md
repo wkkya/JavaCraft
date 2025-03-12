@@ -7,45 +7,77 @@ description: JavaCraft
 heroImage: /static/logo/logo.png
 heroText: JavaCraft
 heroImageDark: /static/logo/logo.png
-# bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
-# bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
-# bgImageStyle:
-  # background-attachment: fixed
-  # background-repeat: repeat
-  # background-size: initial
-# heroText: JavaCraft
 tagline: "以工匠精神探讨 Java 技术，精雕代码艺术"
-# actions:
-#   - text: 使用指南
-#     # icon: lightbulb
-#     link: ./demo/
-#     type: primary
+actions:
+  - text: 面试专栏
+    icon: lightbulb
+    link: ./interview/
+    type: primary
 
-#   - text: 文档  
-#     link: ./guide/
+  - text: 文档  
+    link: ./guide/
 
 highlights:
   # - header: 在 Markdown 中添加你想要的内容
   - header: 
     description: 
     features:
-      - title: 链接检查
-        icon: clipboard-check
-        details: 检查 Markdown 链接
-        # link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
+      # - title: 面试专栏
+      #   icon: clipboard-check
+      #   details: 面试专栏
+      #   link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
 
-      - title: 提示容器
+      - title: 开发基础与框架
         icon: box-archive
-        details: 用样式装饰 Markdown 内容
+        details: 深度剖析常用框架核心思想
         # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
-      - title: 提示容器
-        icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
-      - title: 提示容器
-        icon: box-archive
-        details: 用样式装饰 Markdown 内容
-        # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 数据库
+      #   icon: box-archive
+      #   details: 数据库原理&性能调优等
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 数据结构与算法
+      #   icon: box-archive
+      #   details: 数据结构与算法
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 架构与系统设计
+      #   icon: box-archive
+      #   details: 具备架构思维&系统设计能力
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 微服务架构体系
+      #   icon: box-archive
+      #   details: 微服务架构体系
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 运维与部署
+      #   icon: box-archive
+      #   details: 运维与部署
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 操作系统
+      #   icon: box-archive
+      #   details: 操作系统
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 计算机网络
+      #   icon: box-archive
+      #   details: 计算机网络
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 计算机组成原理
+      #   icon: box-archive
+      #   details: 计算机组成原理
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      # - title: 常用工具详解
+      #   icon: box-archive
+      #   details: 常用工具详解
+      #   # link: https://theme-hope.vuejs.press/zh/guide/markdown/stylize/hint.html
+
+      
 
 
 copyright: false
